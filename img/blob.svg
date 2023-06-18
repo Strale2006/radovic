@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg class="home__blob"  id="10015.io" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <defs>
+    <clipPath id="blob">
+      <path fill="#000000" d="M302.5,335Q130,430,125.5,232Q121,34,298,137Q475,240,302.5,335Z" />
+    </clipPath>
+  </defs>
+  <image class="home__blob-img" x="0" y="0" width="100%" height="100%" clip-path="url(#blob)" xlink:href="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwzNjMxMDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODAzNzA3ODQ&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=1080" preserveAspectRatio="xMidYMid slice"></image>
+</svg>
