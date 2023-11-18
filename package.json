@@ -1,9 +1,9 @@
 {
-  "name": " ",
+  "name": "portfolio",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
+  "description": "��#\u0000 \u0000S\u0000t\u0000r\u0000a\u0000h\u0000i\u0000n\u0000j\u0000a\u0000-\u0000P\u0000o\u0000r\u0000t\u0000f\u0000o\u0000l\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "keywords": [],
+  "license": "ISC",
   "author": "",
   "scripts": {
     "build": "parcel build index.html",
@@ -13,5 +13,9 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
   }
 }
