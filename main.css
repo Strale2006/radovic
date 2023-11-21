@@ -437,10 +437,10 @@ img{
   width: 100%;
 }
 .skills__js{
-  width: 90%;
+  width: 100%;
 }
 .skills__nodejs{
-  width: 95%;
+  width: 99%;
 }
 .skills__c\#{
   width: 100%;
@@ -452,7 +452,7 @@ img{
   width: 80%;
 }
 .skills__java{
-  width: 85%;
+  width: 65%;
 }
 .skills__photoshop{
   width: 80%;
@@ -466,7 +466,7 @@ img{
 }
 
 .skills__nextjs{
-  width: 60%;
+  width: 75%;
 }
 
 .skills__sql{
